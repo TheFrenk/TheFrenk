@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenk&show_icons=true&theme=tokyonight)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheFrenk&theme=tokyonight&hide=delphi,ini,other,toml,json,text,c,properties,objective-c, c++)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheFrenk&theme=tokyonight&hide=delphi,ini,other,toml,json,text,c,properties,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
