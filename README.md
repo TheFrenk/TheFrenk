@@ -1,5 +1,4 @@
 ### About me
-![76cI](https://user-images.githubusercontent.com/37979052/145586859-854b5acf-4e85-4c3f-a31c-68f39a654a7d.gif)
 * Learning PYTHON, HTML, CSS
 * Develop bots for discord
 * Website development
