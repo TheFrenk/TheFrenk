@@ -1,5 +1,5 @@
 ### About me
-* Learning PYTHON, HTML, CSS
+* Learning PYTHON, C#, WEB
 * Develop bots for discord
 * Website development
 
