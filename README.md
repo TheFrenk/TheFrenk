@@ -3,7 +3,8 @@
 * Develop bots for discord
 * Website development
 
-
+<br>
+<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheFrenk&theme=tokyonight&hide=delphi,ini,other,toml,json,text,c,properties,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and tools
