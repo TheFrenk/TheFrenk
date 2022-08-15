@@ -8,8 +8,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheFrenk&theme=tokyonight&hide=delphi,ini,other,toml,json,text,c,properties,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
+[![My Skills](https://skillicons.dev/icons?i=python, cs, vscode)](https://skillicons.dev)
 
 
 
