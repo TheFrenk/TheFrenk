@@ -4,8 +4,6 @@
 * Website development
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenk&show_icons=true&theme=tokyonight)
-<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheFrenk&theme=tokyonight&hide=delphi,ini,other,toml,json,text,c,properties,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and tools
