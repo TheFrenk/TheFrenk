@@ -14,7 +14,7 @@ Hi my name is Denis<br>🔭 I’m currently working on the remake of Ace of Spad
 # 📊 Stats: 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheFrenk&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&myquote=Man+is+least+himself+when+he+talks+in+his+own+person.+Give+him+a+mask,+and+he+will+tell+you+the+truth.&author=Oscar+Wilde)
 
 
