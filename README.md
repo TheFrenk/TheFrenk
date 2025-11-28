@@ -13,7 +13,7 @@ Hi my name is Denis<br>🔭 I’m currently working on the remake of Ace of Spad
 ### ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?style=for-the-badge&logo=phpstorm&logoColor=fff)](#)
 
 # 📊 Stats: 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheFrenk&theme=tokyonight&range=all_time&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheFrenk&theme=dark&range=all_time&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&myquote=Man+is+least+himself+when+he+talks+in+his+own+person.+Give+him+a+mask,+and+he+will+tell+you+the+truth.&author=Oscar+Wilde)
