@@ -19,9 +19,3 @@ Hi my name is Denis<br>🌱 I’m currently learning languages such as C# and Py
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&myquote=Man+is+least+himself+when+he+talks+in+his+own+person.+Give+him+a+mask,+and+he+will+tell+you+the+truth.&author=Oscar+Wilde)
 
 
-
-
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/frankky) 
-  
