@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Denis<br>🔭 I’m currently working on the remake of Ace of Spades<br>🌱 I’m currently learning languages such as C# and Python
+Hi my name is Denis<br>🌱 I’m currently learning languages such as C# and Python
 
 
 ## 🌐 Socials:
