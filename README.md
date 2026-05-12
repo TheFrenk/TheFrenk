@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Denis<br>🌱 I’m currently learning languages such as C# and Python
+Hi my name is Denys<br>🌱
 
 
 ## 🌐 Socials:
